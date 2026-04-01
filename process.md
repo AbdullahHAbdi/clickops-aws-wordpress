@@ -138,7 +138,7 @@ A step-by-step guide detailing how I deployed WordPress on AWS using the AWS Con
 
 ---
 
-## Phase 3: RDS Database
+## Part 3: RDS Database
 
 ### Step 12: Create RDS Subnet Group
 
@@ -198,7 +198,7 @@ A step-by-step guide detailing how I deployed WordPress on AWS using the AWS Con
 
 ![Target Group](./screenshots/aws-tg.png)
 
-![ALB Step](./screenshots/ALB.png)
+![ALB Step](./screenshots/alb.png)
 
 ---
 
@@ -234,7 +234,7 @@ A step-by-step guide detailing how I deployed WordPress on AWS using the AWS Con
 
 ---
 
-## Phase 6: Install WordPress
+## Part 6: Install WordPress
 
 ### Step 18: Connect via SSM Session Manager
 
@@ -321,7 +321,7 @@ sudo systemctl restart httpd
 
 ---
 
-## Phase 8: VPC Endpoints
+## Part 8: VPC Endpoints
 
 ### Step 24: Enable DNS Support
 
